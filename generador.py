@@ -1,7 +1,6 @@
 import random # generar numeros, textos, caracteres aleatorios 
 
-class Generador
-
+class Generador:
 
 def generador_contra(): # metodo y una funcion,  una funcion devuelve un valor y un metodo realiza una tarea en epecífica sin necesidad de devolver un valor
     mayuscula=['A','B','C','D','E','F','G','H','I'] #diccionario 
@@ -19,9 +18,10 @@ def generador_contra(): # metodo y una funcion,  una funcion devuelve un valor y
     contrasena="".join(contrasena)               #. join sive para unir los elementos en la lista osea lo convierte en un texto 
     return contrasena # devolver un valor 
 
+
 cantidad=int(input("Ingrese cantidad: "))
 
-
+a=654
 
 
 
