@@ -22,6 +22,8 @@ def generador_contra(): # metodo y una funcion,  una funcion devuelve un valor y
 cantidad=int(input("Ingrese cantidad: "))
 
 a=654
+b=632
+c=152
 
 
 
